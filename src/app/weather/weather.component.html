@@ -1,0 +1,58 @@
+<section class="" style="background-color: rgb(142, 202, 204);" *ngIf="appState.weatherState.description">
+    <div class="container py-5 h-100">
+      <div class="row d-flex justify-content-center align-items-center h-100" style="color: #282828;">
+        <div class="col-md-9 col-lg-7 col-xl-5">
+          <div class="card mb-4 gradient-custom" style="border-radius: 25px;">
+            <div class="card-body p-4">
+              <div id="demo1" class="carousel slide" data-ride="carousel">
+                <!-- Carousel inner -->
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <div class="d-flex justify-content-between mb-4 pb-2">
+                      <div>     
+                        <h1>Today at : <strong>{{appState.weatherState.currentConditions.datetime}}</strong></h1>                            
+                        <h2 class="display-2"><strong>{{this.temp}}°C</strong></h2>
+                        <p>Feels Like : <strong>{{toCelcius(appState.weatherState.currentConditions.feelslike)}}°C</strong></p>
+                        <h4><em>{{appState.weatherState.description}}</em></h4>
+                        <p class="text-muted mb-0">{{appState.weatherState.address}}</p>
+                      </div>
+                      <div>
+                        <i class="bi" style="font-size: 80px;"
+                            [ngClass]="appState.weatherState.currentConditions.icon == 'partly-cloudy-day'?'bi-cloud-sun':(appState.weatherState.currentConditions.icon == 'cloudy'?'bi-cloudy':'bi-sun')"
+                          ></i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>  
+          <div class="d-flex flex-wrap justify-content-between">
+            <div class="card m-3" style="border-radius: 25px;width: 40%;" *ngFor="let day of appState.weatherState.days">
+              <div class="card-body p-4">
+                <div id="demo3" class="carousel slide" data-ride="carousel">
+                  <!-- Carousel inner -->
+                  <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <div class="d-flexjustify-content-around text-center mb-4 pb-3 pt-2">
+                        <div class="flex-column">
+                          <p class="small">min: <strong>{{toCelcius(day.tempmin)}}°C</strong><br>current: <strong>{{toCelcius(day.temp)}}°C</strong><br> max: <strong>{{toCelcius(day.tempmax)}}°C</strong></p>
+                          <i class="bi mb-3" style="color: #1482ff;"
+                            [ngClass]="day.icon == 'partly-cloudy-day'?'bi-cloud-sun-fill':(day.icon == 'cloudy'?'bi-cloudy-fill':'bi-sun-fill')"
+                          ></i>
+                          <p class="mb-0"><strong>{{day.datetime | date:'EEEE'}}</strong><br>{{day.datetime}}</p>
+                          <p class="mb-0">{{day.description}}</p>
+                          <p class="mb-0">Rain prob: <strong>{{day.precipprob}}</strong></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  
+    </div>
+  </section>

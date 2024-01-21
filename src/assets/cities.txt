@@ -1,0 +1,85 @@
+Smara,Morocco,Laâyoune-Sakia El Hamra,2461874
+Setti Fatma,Morocco,Marrakesh-Safi,2526239
+Zaïo,Morocco,Oriental,2526435
+Zagora,Morocco,Drâa-Tafilalet,2526452
+Youssoufia,Morocco,Marrakesh-Safi,2526488
+Tiznit,Morocco,Souss-Massa,2527089
+Tirhanimîne,Morocco,Tanger-Tetouan-Al Hoceima,2527645
+Tinghir,Morocco,Drâa-Tafilalet,2527915
+Tiflet,Morocco,Rabat-Salé-Kénitra,2528659
+Tétouan,Morocco,Tanger-Tetouan-Al Hoceima,2528910
+Temara,Morocco,Rabat-Salé-Kénitra,2529013
+Taza,Morocco,Fès-Meknès,2529317
+Taroudant,Morocco,Souss-Massa,2529649
+Taourirt,Morocco,Oriental,2530048
+Taounate,Morocco,Fès-Meknès,2530155
+Tan-Tan,Morocco,Guelmim-Oued Noun,2530241
+Tangier,Morocco,Tanger-Tetouan-Al Hoceima,2530335
+Tahla,Morocco,Fès-Meknès,2531480
+Souq Larb’a al Gharb,Morocco,Rabat-Salé-Kénitra,2532394
+Sidi Yahia El Gharb,Morocco,Rabat-Salé-Kénitra,2532822
+Sidi Slimane,Morocco,Rabat-Salé-Kénitra,2532945
+Sidi Qacem,Morocco,Rabat-Salé-Kénitra,2533191
+Sidi Ifni,Morocco,Souss-Massa,2534515
+Sidi Bennour,Morocco,Casablanca-Settat,2536074
+Settat,Morocco,Casablanca-Settat,2537406
+Sefrou,Morocco,Fès-Meknès,2537545
+Sale,Morocco,Rabat-Salé-Kénitra,2537763
+Safi,Morocco,Marrakesh-Safi,2537881
+Reçani,Morocco,Drâa-Tafilalet,2538027
+Rabat,Morocco,Rabat-Salé-Kénitra,2538475
+Oulmes,Morocco,Rabat-Salé-Kénitra,2538898
+Oulad Teïma,Morocco,Souss-Massa,2539134
+Oujda-Angad,Morocco,Oriental,2540483
+Oued Zem,Morocco,Béni Mellal-Khénifra,2540689
+Ouezzane,Morocco,Tanger-Tetouan-Al Hoceima,2540810
+Ouarzazat,Morocco,Drâa-Tafilalet,2540850
+Nador,Morocco,Oriental,2541479
+Al Aaroui,Morocco,Oriental,2542013
+Mohammedia,Morocco,Casablanca-Settat,2542051
+Midelt,Morocco,Béni Mellal-Khénifra,2542227
+Meknès,Morocco,Fès-Meknès,2542715
+Mechraa Bel Ksiri,Morocco,Rabat-Salé-Kénitra,2542866
+Martil,Morocco,Tanger-Tetouan-Al Hoceima,2542987
+Marrakesh,Morocco,Marrakesh-Safi,2542997
+Larache,Morocco,Tanger-Tetouan-Al Hoceima,2543549
+Ksar El Kebir,Morocco,Tanger-Tetouan-Al Hoceima,2544001
+Khouribga,Morocco,Béni Mellal-Khénifra,2544248
+Khenifra,Morocco,Béni Mellal-Khénifra,2544333
+Kenitra,Morocco,Rabat-Salé-Kénitra,2544571
+Kasba Tadla,Morocco,Béni Mellal-Khénifra,2544720
+Jerada,Morocco,Oriental,2545017
+Ifrane,Morocco,Fès-Meknès,2546917
+Guercif,Morocco,Fès-Meknès,2548489
+Guelmim,Morocco,Guelmim-Oued Noun,2548526
+Fnidek,Morocco,Tanger-Tetouan-Al Hoceima,2548818
+Al Fqih Ben Çalah,Morocco,Béni Mellal-Khénifra,2548830
+Fès al Bali,Morocco,Fès-Meknès,2548880
+Fès,Morocco,Fès-Meknès,2548885
+Essaouira,Morocco,Marrakesh-Safi,2549263
+Arfoud,Morocco,Drâa-Tafilalet,2549356
+El Jadid,Morocco,Casablanca-Settat,2550078
+El Hajeb,Morocco,Fès-Meknès,2550252
+El Aïoun,Morocco,Oriental,2550806
+Imzouren,Morocco,Tanger-Tetouan-Al Hoceima,2550898
+Chefchaouen,Morocco,Tanger-Tetouan-Al Hoceima,2553455
+Casablanca,Morocco,Casablanca-Settat,2553604
+Bouznika,Morocco,Casablanca-Settat,2553751
+Bouarfa,Morocco,Oriental,2555157
+Berkane,Morocco,Oriental,2555467
+Beni Mellal,Morocco,Béni Mellal-Khénifra,2555745
+Berrechid,Morocco,Casablanca-Settat,2556272
+Azrou,Morocco,Fès-Meknès,2556464
+Azemmour,Morocco,Casablanca-Settat,2556657
+Asilah,Morocco,Tanger-Tetouan-Al Hoceima,2557055
+Khemisset,Morocco,Rabat-Salé-Kénitra,2558470
+Al Hoceïma,Morocco,Tanger-Tetouan-Al Hoceima,2558545
+Aïn Beni Mathar,Morocco,Oriental,2560922
+Ahfir,Morocco,Oriental,2561124
+Agadir,Morocco,Souss-Massa,2561668
+Skhirate,Morocco,Rabat-Salé-Kénitra,2562055
+Boujniba,Morocco,Béni Mellal-Khénifra,6546693
+Errachidia,Morocco,Drâa-Tafilalet,7280528
+Dakhla,Morocco,Souss-Massa,8542188
+Salé Al Jadida,Morocco,Rabat-Salé-Kénitra,10920963
+Bni Bouayach,Morocco,Tanger-Tetouan-Al Hoceima,10958491

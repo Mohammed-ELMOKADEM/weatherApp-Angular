@@ -1,0 +1,24 @@
+<div class="card container w-50">
+    <div class="card-header">Weather App</div>
+    <div class="card-body">
+        <div class="input-group">
+            <span class="border-warning input-group-text bg-warning text-white"><i class="bi bi-search"></i></span>
+            <input type="text" class="form-control border-warning" style="color:#7a7a7a" [(ngModel)] = "city" list="list-cities">
+            <datalist id="list-cities">
+              <option *ngFor="let city of cityCountry">{{city}}</option>
+            </datalist>
+            <button class="btn btn-warning text-white" (click)="search()">Search</button>
+        </div>
+    </div>
+</div>
+ <!--  DropDown Starts  -->
+ <div class="card" [hidden]="!showSearches">
+    <div class="search">
+      <div *ngFor="let city of cityCountry" tappable (click)="search()" class="search-result">
+        {{city}}
+      </div>     
+    </div>
+    <!-- <p class="search" *ngIf="searchedCars && searchedCars.length <= 0 && !isSearching">No Car found</p>
+    <p class="search" [hidden]="!isSearching">Searching cars...</p> -->
+  </div>
+<!--  DropDown Ends  -->
